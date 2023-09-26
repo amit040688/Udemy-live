@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Udemy-live/static/css/main.6ccd65a8.css",
+    "main.js": "/Udemy-live/static/js/main.17203969.js",
+    "static/js/787.a8951fc1.chunk.js": "/Udemy-live/static/js/787.a8951fc1.chunk.js",
+    "index.html": "/Udemy-live/index.html",
+    "main.6ccd65a8.css.map": "/Udemy-live/static/css/main.6ccd65a8.css.map",
+    "main.17203969.js.map": "/Udemy-live/static/js/main.17203969.js.map",
+    "787.a8951fc1.chunk.js.map": "/Udemy-live/static/js/787.a8951fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.17203969.js"
+  ]
+}
